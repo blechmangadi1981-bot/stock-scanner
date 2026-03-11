@@ -2,8 +2,6 @@ streamlit>=1.28.0
 
 yfinance>=0.2.31
 
-pandas_ta>=0.3.14b1
-
 pandas>=2.0.0
 
 numpy>=1.24.0
@@ -12,4 +10,4 @@ lxml>=4.9.0
 
 requests>=2.31.0
 
- 
+plotly>=5.18.0
